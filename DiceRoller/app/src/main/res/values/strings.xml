@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">自动骰子</string>
+    <string name="roll_label">Roll</string>
+</resources>
